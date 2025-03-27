@@ -8,10 +8,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">SA</h3>
+  <h3 align="center">EPCSD</h3>
 
   <p align="center">
-    SA project stub
+    EPCSD project stub
     <br />
     <br />
     <a href="https://github.com/UOC-EPCSD-SPRING-2025/spring-2025/issues">Report Bug</a>
@@ -194,7 +194,7 @@ To check the operation, you can access the _Adminer_ panel at http://localhost:1
 
 ## Contact
 
-xxxxx - xxxxx@uoc.edu
+Raul Ruiz - rruizbarea@uoc.edu
 
-<p align="right">(<a href="#top">ir arriba</a>)</p>
+<p align="right">(<a href="#top">go up</a>)</p>
 
