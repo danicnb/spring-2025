@@ -1,0 +1,9 @@
+[submodule "spring-2025-notification"]
+	path = spring-2025-notification
+	url = https://github.com/danicnb/spring-2025-notification
+[submodule "spring-2025-productcatalog"]
+	path = spring-2025-productcatalog
+	url = https://github.com/danicnb/spring-2025-productcatalog
+[submodule "spring-2025-user"]
+	path = spring-2025-user
+	url = https://github.com/danicnb/spring-2025-user
